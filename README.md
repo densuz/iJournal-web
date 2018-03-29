@@ -1,5 +1,5 @@
 # iJournal
-<a href="erikwibo.esy.es">iJournal</a>
+<a href="erikwibo.esy.es">iJournal</a><br>
 Aplikasi Informasi Pengumuman (Jurnal) Penerimaan Peserta Didik Baru Sekolah Menengah Di Kabupaten Pekalongan Berbasis Android dan WEB
 
 <i>Application of Announcement Information (Journal) New Student Admission of Secondary School In Pekalongan Regency Based Android and WEB</i>
